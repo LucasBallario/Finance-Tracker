@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Box {
+  width: 250px;
+  height: 120px;
+  background: #E5E4E2;
+  margin-top: 40px;
+}
+
